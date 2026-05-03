@@ -33,32 +33,6 @@ This song is about:
 - Brotherhood beyond blood
 - Gratitude for a friend who has always been there
 
-## Suggested Description
-
-A soulful and emotional friendship tribute from Garth to Nathan Legasse, honoring a bond that began in childhood in the Elmwood projects and lasted into adulthood. **Since Single Digits** celebrates loyalty, brotherhood, memories, and the kind of friendship that stands beside you through life.
-
-## Short Social Media Caption
-
-This song is for my best friend and only friend in the whole wide world, **Nathan Legasse**. We grew up together in the Elmwood projects and have been best friends since we were kids. This tribute is my way of saying thank you for always being there. Since single digits, brother.
-
-## How to Use This Repository
-
-### Option 1: Upload to GitHub
-
-1. Create a new GitHub repository.
-2. Upload all files and folders from this package.
-3. Commit the files to the `main` branch.
-4. Open the repository page to view the README.
-
-### Option 2: Turn on GitHub Pages
-
-1. Go to the repository settings.
-2. Select **Pages**.
-3. Under **Build and deployment**, choose **Deploy from a branch**.
-4. Select the `main` branch and `/root` folder.
-5. Save the settings.
-6. GitHub will provide a public link to the tribute page.
-
 ## Credits
 
 **Song:** Since Single Digits  
